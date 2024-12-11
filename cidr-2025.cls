@@ -1268,7 +1268,7 @@
   \global\@ACM@journal@bibstripfalse
 }
 \if@ACM@journal\else
-\acmConference[CIDR'24]{14th Annual Conference on Innovative Data Systems Research}{January 19-22, 2025}{Amsterdam, The Netherlands}
+\acmConference[CIDR'25]{15th Annual Conference on Innovative Data Systems Research}{January 19-22, 2025}{Amsterdam, The Netherlands}
 
 \fi
 \def\acmBooktitle#1{\gdef\@acmBooktitle{#1}}
