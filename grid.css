@@ -8,11 +8,8 @@
         grid-gap: 1em;
         grid-template-rows:
             [time-1500] auto
-            [time-1600] auto
-            [time-1700] auto
             [time-1800] auto
             [time-1900] auto
-            [time-2000] auto
             [time-2100] auto;
             
             
