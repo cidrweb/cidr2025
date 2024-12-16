@@ -9,7 +9,7 @@
         grid-template-rows:
             [time-1500] auto
             [time-1800] auto
-            [time-1900] auto
+            [time-1930] auto
             [time-2100] auto;
             
             
@@ -197,6 +197,7 @@
             [time-1155] auto
             [time-1200] auto
             [time-1205] auto
+            [time-1210] auto
             [time-1230] auto
             [time-1330] auto
             [time-1430] auto
@@ -234,7 +235,8 @@
             [time-1730] auto
             [time-1735] auto
             [time-1740] auto
-            [time-1745] auto
+            
+            [time-1750] auto
             [time-1800] auto
             [time-1930] auto
             [time-1935] auto
@@ -314,13 +316,8 @@
             [time-1200] auto
             [time-1205] auto
             [time-1210] auto
-            [time-1400] auto
-            [time-1405] auto
-            [time-1410] auto
-            [time-1415] auto
-            [time-1420] auto
-            [time-1425] auto
-            [time-1430] auto;
+            [time-1310] auto
+            [time-1330] auto;
 
             
             
