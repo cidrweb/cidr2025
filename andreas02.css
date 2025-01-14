@@ -77,4 +77,4 @@ p {margin:0 0 1.4em;}
 /* Background image and CIDR logo */
 #masthead {height: 200px; width: 760px; background-size: cover; background-repeat: no-repeat; background-position: center center; background-image: url("img/CIDR_Amsterdam.jpg"); margin-bottom: 10px;}
 #masthead-logo {height: 100%; width: 100%; display: flex; justify-content: left; align-items: top;}
-#masthead-logo img {height: 30%; margin-left: 20px; margin-top: 25px; background-color: rgba(255, 255, 255, 0.8); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); padding: 10px;}
+#masthead-logo img {height: 30%; margin-left: 20px; margin-top: 20px; background-color: rgba(255, 255, 255, 0.8); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); padding: 10px;}
