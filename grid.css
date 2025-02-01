@@ -11,8 +11,8 @@
             [time-1800] auto
             [time-1930] auto
             [time-2100] auto;
-            
-            
+
+
             /* Note 1:
             Use 24hr time for gridline names for simplicity
 
@@ -141,8 +141,8 @@
             [time-2055] auto
             [time-2100] auto
             [time-2200] auto;
-                        
-                        
+
+
             /* Note 1:
             Use 24hr time for gridline names for simplicity
 
@@ -235,7 +235,7 @@
             [time-1730] auto
             [time-1735] auto
             [time-1740] auto
-            
+
             [time-1750] auto
             [time-1800] auto
             [time-1930] auto
@@ -258,8 +258,8 @@
             [time-2055] auto
             [time-2100] auto
             [time-2200] auto;
-                        
-                        
+
+
             /* Note 1:
             Use 24hr time for gridline names for simplicity
 
@@ -281,7 +281,7 @@
         display: grid;
         grid-gap: 1em;
         grid-template-rows:
-   
+
             [time-0900] auto
             [time-0905] auto
             [time-0910] auto
@@ -319,8 +319,8 @@
             [time-1310] auto
             [time-1330] auto;
 
-            
-            
+
+
             /* Note 1:
             Use 24hr time for gridline names for simplicity
 
@@ -368,7 +368,7 @@
     @media all and (min-width: 700px) {
         .session {
             margin: 0;
-        }   
+        }
     }
 }
 
@@ -432,11 +432,11 @@
 .session-title a {
     color: #fff;
     text-decoration-style: dotted;
-    
+
     &:hover {
         font-style: italic;
     }
-    
+
     &:focus {
         outline: 2px dotted rgba(255,255,255,.8);
     }
